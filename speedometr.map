@@ -1,0 +1,15 @@
+CodeVisionAVR C Compiler V1.25.8 Standard
+(C) Copyright 1998-2007 Pavel Haiduc, HP InfoTech s.r.l.
+http://www.hpinfotech.com
+
+File: C:\1_my_speedometr\speedometr.c
+Global variables memory map:
+
+Variable                          Address   Size
+digit_out                                                             160h      3
+cur_dig                                                                 R5      1
+indication                                                           R6,R7      2
+i                                                                    R8,R9      2
+imp                                                                R10,R11      2
+x                                                                  R12,R13      2
+y                                                                     163h      2
